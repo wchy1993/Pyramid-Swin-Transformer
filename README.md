@@ -12,4 +12,6 @@ Our Pyramid Swin Transformer model showcases promising capabilities. However, li
 
   - **Computational Constraints:** The model should be optimized keeping in mind computational limitations and the need for efficient processing.
 
+![Pyramid Swin Transformer for different tasks](/images/swin.png)
+
 By meticulously fine-tuning these aspects through iterative experimentation, we are optimistic about enhancing our model's performance. This, in turn, can potentially lead to groundbreaking results in diverse computer vision tasks.
