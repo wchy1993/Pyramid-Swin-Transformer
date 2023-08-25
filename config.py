@@ -10,5 +10,5 @@ train_batch_size = 64
 val_batch_size = 64
 learning_rate = 0.1
 weight_decay = 5e-5
-traindir = '/imagenet/train'
-valdir = '/imagenet/val'
+traindir = 'imagenet/train'
+valdir = 'imagenet/val'
