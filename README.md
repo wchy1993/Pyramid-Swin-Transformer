@@ -29,8 +29,22 @@ Proposed multiple Pyramid Swin Transformer variants:
 - **Pyramid Swin-B**: C = 128, layer = {4,3,3,2}
 - **Pyramid Swin-L**: C = 192, layer = {4,3,3,2}
 
+
+
 ### Conclusion
 Our Pyramid Swin Transformer is an evolved architecture, boosting efficiency in multi-task computer vision scenarios, and ensuring better information interaction between windows.
 
 
+```bibtex
+@inproceedings{wang,
+  author    = {Chenyu Wang and Toshio Endo and Takahiro Hirofuchi and
+               Tsutomu Ikegami},
+  title     = {Pyramid Swin Transformer: Different-Size Windows Swin Transformer for Image Classification and Object Detection},
+  booktitle = {Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
+  pages     = {583--590},
+  year      = {2023},
+  doi       = {10.5220/0011675800003417}
+}
+
+```
 
