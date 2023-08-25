@@ -1,5 +1,7 @@
 # Pyramid-Swin-Transformer
 
+![Pyramid-Swin-Transformer](image\block.jpg)
+
 Our Pyramid Swin Transformer model showcases promising capabilities. However, like any advanced model, it underscores the importance of continuous refinement and optimization. Key takeaways include:
 
 - **Parameter Tuning:** The model's efficacy is deeply rooted in the meticulous tuning of its parameters. This process should be tailored to fit the specific demands of various tasks.
