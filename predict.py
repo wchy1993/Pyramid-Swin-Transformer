@@ -34,11 +34,3 @@ def predict():
 
 predictions = predict()
 print(predictions)
-
-
-# Saving the prediction code to predict.py
-predict_filepath = "/mnt/data/predict.py"
-with open(predict_filepath, "w") as file:
-    file.write(predict_code)
-
-predict_filepath
