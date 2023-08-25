@@ -4,7 +4,7 @@ Our Pyramid Swin Transformer model showcases promising capabilities. However, li
 
 - **Parameter Tuning:** The model's efficacy is deeply rooted in the meticulous tuning of its parameters. This process should be tailored to fit the specific demands of various tasks.
 
-- - **Task Characteristics:** It's crucial to consider the intrinsic traits of the task, such as:
+  - **Task Characteristics:** It's crucial to consider the intrinsic traits of the task, such as:
   - Scale of feature maps.
   - The specific type of attention mechanism required.
 
