@@ -1,6 +1,6 @@
 # Pyramid-Swin-Transformers
 
-![Pyramid Swin Transformer](/images/block.png){ width=50% height=50% }
+![Pyramid Swin Transformer](/images/block.png){width=50% height=50%}
 
 The **Pyramid Swin Transformer** addresses and augments the original Swin Transformer, primarily focusing on improving multi-scale and computational complexities inherent in vision Transformers.
 
@@ -19,7 +19,7 @@ The **Pyramid Swin Transformer** addresses and augments the original Swin Transf
 - A balance between local feature refinement and global context understanding.
 
 
-![Pyramid Swin Transformer for different tasks](/images/swin.png){ width=50% height=50% }
+![Pyramid Swin Transformer for different tasks](/images/swin.png){width=50% height=50%}
 We also tested our model on different tasks, all with very good results.
 
 
