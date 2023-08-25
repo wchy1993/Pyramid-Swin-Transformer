@@ -5,10 +5,10 @@ heads = (3, 6, 12, 24)
 window_sizes = ((4, 8, 16, 32), (4, 8, 16), (4, 8), (4, 8))
 
 # Training configuration
-num_epochs = 1
-train_batch_size = 8
-val_batch_size = 8
+num_epochs = 10
+train_batch_size = 32
+val_batch_size = 32
 learning_rate = 0.001
 weight_decay = 0.05
-traindir = 'C:\\Users\\wchy1\\Desktop\\Pyramid Swin Transformer\\imagenet\\train'
-valdir = 'C:\\Users\\wchy1\\Desktop\\Pyramid Swin Transformer\\imagenet\\val'
+traindir = '/imagenet/train'
+valdir = '/imagenet/val'
