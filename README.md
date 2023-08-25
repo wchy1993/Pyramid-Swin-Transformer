@@ -17,7 +17,7 @@ The **Pyramid Swin Transformer** addresses and augments the original Swin Transf
 - More robust information exchange between windows, enhancing model performance.
 - A balance between local feature refinement and global context understanding.
 
-<img src="/images/swin.png" width="500" height="200" />
+<img src="/images/swin.png" width="500" height="500" />
 
 We also tested our model on different tasks, all with very good results.
 
