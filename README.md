@@ -1,7 +1,7 @@
 # Pyramid-Swin-Transformers
 
 ![Pyramid Swin Transformer for different tasks](/images/block.png){width=70% height=70%}
-
+<img src="/images/block.png" width="500" height="200" />
 The **Pyramid Swin Transformer** addresses and augments the original Swin Transformer, primarily focusing on improving multi-scale and computational complexities inherent in vision Transformers.
 
 ### Core Challenges
