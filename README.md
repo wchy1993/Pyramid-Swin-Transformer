@@ -1,6 +1,6 @@
 # Pyramid-Swin-Transformer
 
-![Pyramid-Swin-Transformer](image\block.jpg)
+![Pyramid Swin Transformer](\image\block.jpg)
 
 Our Pyramid Swin Transformer model showcases promising capabilities. However, like any advanced model, it underscores the importance of continuous refinement and optimization. Key takeaways include:
 
