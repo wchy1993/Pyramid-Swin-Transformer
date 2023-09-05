@@ -134,7 +134,17 @@ class WindowAttention(nn.Module):
             out = self.cyclic_back_shift(out)
         return out
 
+class PatchEmbedding(nn.Module):
+    def __init__(self, in_channels, patch_size, embed_dim):
+        super(PatchEmbedding, self).__init__()
+        self.patch_size = patch_size
+        self.projection = nn.Conv2d(in_channels, embed_dim, kernel_size=patch_size, stride=patch_size)
 
+    def forward(self, x):        
+        x = self.projection(x)
+        x = x.flatten(2).transpose(1, 2)
+        return x
+        
 class PyramidSwinBlock(nn.Module):
     def __init__(self, dim, heads, head_dim, mlp_dim, shifted, window_size, relative_pos_embedding):
         super().__init__()
